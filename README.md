@@ -19,4 +19,4 @@ A simple desktop application built with **C++ and Qt** that downloads an image f
 1. Make sure you have Qt installed (Qt Creator recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ImageNegativeApp.git
+   git clone https://github.com/Sc-Luka/ImageNegativeApp.git
